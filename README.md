@@ -44,7 +44,7 @@ This repository contains an Exploratory Data Analysis (EDA) project on a music s
    
 
 ## Schema Diagram
-
+![schema_diagram](https://github.com/MrAbhishekSolanki/Music-Store-Analysis-Using-SQL/blob/main/schema_diagram.png)
 
 ## How to Use
 
